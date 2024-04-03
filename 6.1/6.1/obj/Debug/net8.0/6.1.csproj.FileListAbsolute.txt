@@ -1,0 +1,14 @@
+C:\Users\sirota_vv\source\repos\6.1\6.1\bin\Debug\net8.0\6.1.exe
+C:\Users\sirota_vv\source\repos\6.1\6.1\bin\Debug\net8.0\6.1.deps.json
+C:\Users\sirota_vv\source\repos\6.1\6.1\bin\Debug\net8.0\6.1.runtimeconfig.json
+C:\Users\sirota_vv\source\repos\6.1\6.1\bin\Debug\net8.0\6.1.dll
+C:\Users\sirota_vv\source\repos\6.1\6.1\bin\Debug\net8.0\6.1.pdb
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\6.1.AssemblyInfoInputs.cache
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\6.1.AssemblyInfo.cs
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\6.1.csproj.CoreCompileInputs.cache
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\6.1.dll
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\refint\6.1.dll
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\6.1.pdb
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\6.1.genruntimeconfig.cache
+C:\Users\sirota_vv\source\repos\6.1\6.1\obj\Debug\net8.0\ref\6.1.dll
